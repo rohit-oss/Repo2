@@ -2,6 +2,7 @@ package com.ms.calc;
 
 public class Calculater {
 
+	
 	public double doAdd(double num1, double num2) {
 		return num1 + num2;
 	}
